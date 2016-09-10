@@ -9,7 +9,7 @@ html {
 body {
 	padding-left: 8px;
 	padding-right: 8px;
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: rgba(0, 0, 0, 0.05);
 	color: white;
 	margin-left: 25%;
 	margin-right: 25%;
@@ -22,7 +22,7 @@ footer {
 }
 
 #list_container {
-	background-color: rgba(255, 255, 255, 0.25);
+	background-color: rgba(255, 255, 255, 0.05);
 	padding-bottom: 4px;
 	margin-left: 8px;
 	margin-right: 8px;
