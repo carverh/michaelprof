@@ -22,19 +22,18 @@ footer {
 }
 
 #list_container {
-	background-color: rgba(0, 0, 0, 0.5);
+	color: rgba(0, 0, 0, 0.5);
 	padding-bottom: 4px;
 	margin-left: 8px;
 	margin-right: 8px;
 }
 
 .title {
-	font-family:"Segoe UI";
 	font-size:1em;
 	text-transform:uppercase;
 	margin-top:4px;
 	margin-left:2px;
-	font-weight:regular;
+	font-weight: 100;
 	color: black;
 }
 
